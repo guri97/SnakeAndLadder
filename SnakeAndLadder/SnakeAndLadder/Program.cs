@@ -4,9 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            //uc4
-            //PlayerPosition StartGame = new PlayerPosition();
-            //PlayerPosition.StartGame();
+            //uc5
+            //WinnigPosition snake = new WinnigPosition();
+            //snake.StartGame();
         }
     }
 }
